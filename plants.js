@@ -85,11 +85,11 @@ const PLANT_DATA = [
   },
   {
     "num": 8,
-    "name": "Unknown Hirao",
+    "name": "Hirao",
     "qty": 1,
     "stock": 1,
     "cost": 200.0,
-    "price": 750,
+    "price": 950,
     "type": "Mature",
     "maturity": "2022",
     "breeder": "Anton van Wouw Show",
