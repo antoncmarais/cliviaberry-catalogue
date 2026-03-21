@@ -181,10 +181,9 @@
     
     .plant-img {
       width: 100%;
-      height: 220px;
-      object-fit: cover;
-      background: #e8e3db;
-      image-orientation: from-image;
+      aspect-ratio: 1 / 1;
+      object-fit: contain;
+      background: #f5f0e8;
     }
     .plant-img-placeholder {
       width: 100%;
@@ -372,7 +371,7 @@
       .filters { padding: 16px; }
       .filter-search { width: 100%; }
       .plant-grid { grid-template-columns: 1fr; gap: 16px; }
-      .plant-img { height: 220px !important; object-fit: cover !important; }
+      .plant-img { aspect-ratio: 1 / 1 !important; object-fit: contain !important; }
       .catalogue { padding: 20px 16px; }
     }
 
