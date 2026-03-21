@@ -44,7 +44,7 @@ const PLANT_DATA = [
     "price": 500,
     "type": "Mature",
     "maturity": "Mature",
-    "breeder": "Carlene (original)",
+    "breeder": "",
     "notes": "Carlene's original. 4-51-86"
   },
   {
@@ -572,7 +572,7 @@ const PLANT_DATA = [
     "price": 500,
     "type": "Mature",
     "maturity": "Mature",
-    "breeder": "Carlene (original)",
+    "breeder": "",
     "notes": "Carlene's original. 4-51-86"
   },
   {
@@ -992,7 +992,7 @@ const PLANT_DATA = [
     "price": 500,
     "type": "Mature",
     "maturity": "Mature",
-    "breeder": "Carlene (original)",
+    "breeder": "",
     "notes": "Carlene's original Peach Clivia. Favourite! Planted 72 seeds Jun 2021. Offset flowered Sep 2021. Checked 4 Aug 2024. 5 plants"
   },
   {
