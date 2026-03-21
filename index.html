@@ -526,7 +526,7 @@ function renderPlants() {
 
   grid.innerHTML = filtered.map(p => `
     <div class="plant-card" onclick="openModal(${p.num})">
-      <img class="plant-img" src="images/plant_${p.num}.jpg" alt="${p.name}" onerror="this.outerHTML='<div class=plant-img-placeholder>🌿</div>'">
+      <img class="plant-img" src="images/plant_${p.num}.jpg" alt="${p.name}" >
       <div class="plant-info">
         <div class="plant-number">Plant #${p.num}</div>
         <div class="plant-name">${p.name}</div>
@@ -569,7 +569,7 @@ function openModal(num) {
   if (p.notes) detail += `<strong>Notes:</strong> ${p.notes}<br>`;
   document.getElementById('modal-detail').innerHTML = detail;
 
-  document.getElementById('modal-img-container').innerHTML = '<img class="modal-img" src="images/plant_${p.num}.jpg" alt="${p.name}" onerror="this.outerHTML='<div class=plant-img-placeholder style=height:320px;font-size:64px>🌿</div>'">';
+  document.getElementById('modal-img-container').innerHTML = `<img class="modal-img" src="images/plant_${p.num}.jpg" alt="${p.name}" onerror="this.outerHTML='<div class=plant-img-placeholder style=height:320px;font-size:64px>🌿</div>'">`;
 
   const waMsg = encodeURIComponent(`Hi! I'm interested in Plant #${p.num}: ${p.name} (R${p.price}). Is it still available?`);
   document.getElementById('modal-wa-btn').href = `https://wa.me/27686346092?text=${waMsg}`;
