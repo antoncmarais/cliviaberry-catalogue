@@ -537,7 +537,7 @@ function renderPlants() {
           ${p.maturity && p.maturity !== 'Mature' ? `<span class="plant-tag">Maturity ${p.maturity}</span>` : ''}
         </div>
         <div class="plant-bottom">
-          <div class="plant-price">R${p.price.toLocaleString()}</div>
+          <div class="plant-price">R${p.price.toLocaleString()} <span style="font-size:12px;font-weight:400;color:#666;font-family:Inter,sans-serif">per plant</span></div>
           <div>
             <div class="plant-stock ${p.stock <= 2 ? 'plant-stock-low' : ''}">${p.stock} available</div>
           </div>
