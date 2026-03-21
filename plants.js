@@ -109,7 +109,7 @@ const PLANT_DATA = [
   },
   {
     "num": 11,
-    "name": "Hirao Francois van Rooyen",
+    "name": "Hirao",
     "qty": 1,
     "stock": 6,
     "cost": 1500.0,
