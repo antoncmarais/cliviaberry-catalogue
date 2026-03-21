@@ -6,7 +6,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 300.0,
     "price": 450,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2022",
     "breeder": "Anton van Wouw Show",
     "notes": "Checked 4 Aug 2024. 1x 12 leaves"
@@ -18,7 +18,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 150.0,
     "price": 400,
-    "type": "Seed",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Sean Chubb",
     "notes": "Checked 4 Aug 2024. 1x 10 leaves, 1x 10 leaves"
@@ -30,7 +30,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 500.0,
     "price": 600,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2022",
     "breeder": "Utopia Clivias",
     "notes": "Checked 4 Aug 2024. 1x 8 leaves with 2 offsets"
@@ -54,7 +54,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 350.0,
     "price": 750,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2022",
     "breeder": "Utopia Clivias",
     "notes": "Checked 4 Aug 2024. 1x Mature"
@@ -66,7 +66,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 200.0,
     "price": 300,
-    "type": "Seed",
+    "type": "Mature",
     "maturity": "2024",
     "breeder": "Sean Chubb",
     "notes": "Only 1 survived"
@@ -78,7 +78,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 150.0,
     "price": 750,
-    "type": "Seed",
+    "type": "Mature",
     "maturity": "2024",
     "breeder": "Sean Chubb",
     "notes": "4 survived. Checked 4 Aug 2024. 1x 11L, 1x 10L, 1x 15L"
@@ -90,7 +90,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 200.0,
     "price": 750,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2022",
     "breeder": "Anton van Wouw Show",
     "notes": "Checked 4 Aug 2024. 1x Mature"
@@ -102,7 +102,7 @@ const PLANT_DATA = [
     "stock": 7,
     "cost": 2520.0,
     "price": 3800,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Kential Grove (Craig)",
     "notes": "Checked 4 Aug 2024. 1x 8L, 1x 9L, 1x 9L, 1x 7L, 1x Mature, 1x offset 7L, 1x 19L. Plus one extra offset"
@@ -198,7 +198,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 125.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD13. Planted 2018"
@@ -210,7 +210,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD3. Checked 4 Aug 2024. 1x 9 leaves"
@@ -222,7 +222,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 150.0,
     "price": 300,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD6. New mutation. Checked 4 Aug 2024. 1x 12 leaves"
@@ -234,7 +234,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 120.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD7. Checked 4 Aug 2024. 1x 8 leaves"
@@ -246,7 +246,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 120.0,
     "price": 300,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD11. Checked 4 Aug 2024. 1x 14 leaves"
@@ -258,7 +258,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 175.0,
     "price": 250,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD15"
@@ -270,7 +270,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2023",
     "breeder": "Utopia Clivias",
     "notes": "Code SD14. Checked 4 Aug 2024. 1x 9 leaves"
@@ -282,7 +282,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 65.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
     "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 15 leaves"
@@ -294,7 +294,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 150.0,
     "price": 400,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Cliviamart",
     "notes": "Planted 11 Jun 2020. Group 2 yellows. Checked 4 Aug 2024. 1x 9L, 1x 8L, 1x 10L"
@@ -306,7 +306,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 150.0,
     "price": 200,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Cliviamart",
     "notes": "Planted 11 Jun 2020. Breeding green GR2. Checked 4 Aug 2024. 1x 8L, 1x 4L"
@@ -318,7 +318,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 120.0,
     "price": 200,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Karkloof Clivias",
     "notes": "Planted Jun 2020. Checked 4 Aug 2024. 1x 7L, 1x 7L, 1x 8L"
@@ -330,7 +330,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 150.0,
     "price": 400,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Karkloof Clivias",
     "notes": "Planted Jun 2020. 1 seedling died Jun 2022. Checked 4 Aug 2024. 1x 12L, 1x 5L"
@@ -342,7 +342,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 300,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Clivia Paradise",
     "notes": "Planted Jun 2020. Checked 4 Aug 2024. 1x 10L, 1x 8L, 1x 10L"
@@ -354,7 +354,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1000.0,
     "price": 1500,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Sean Chubb",
     "notes": "Planted 2 Aug 2020. Checked 4 Aug 2024. 1x 12L, 1x 12L, 1x 11L"
@@ -366,7 +366,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 200.0,
     "price": 250,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
     "notes": "Garden World show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 4L, 1x 6L, 1x 8L"
@@ -378,7 +378,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 45.0,
     "price": 300,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
     "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 10 leaves"
@@ -390,7 +390,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 55.0,
     "price": 200,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
     "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 6 leaves"
@@ -402,7 +402,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 65.0,
     "price": 200,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
     "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 6 leaves"
@@ -414,7 +414,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 75.0,
     "price": 200,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
     "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 8 leaves"
@@ -426,7 +426,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 50.0,
     "price": 150,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2024",
     "breeder": "Marius (Kempton Park)",
     "notes": ""
@@ -438,7 +438,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 500.0,
     "price": 750,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Sean Chubb",
     "notes": "Planted 2 Aug 2020. Checked 4 Aug 2024. 1x 7L, 1x 9L, 1x 10L, 1x 11L"
@@ -450,7 +450,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 300.0,
     "price": 450,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Cliviamart",
     "notes": "Planted 11 Jun 2020. Checked 4 Aug 2024. 1x 10L, 1x 14L, 1x 7L"
@@ -462,7 +462,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 190.0,
     "price": 400,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
     "notes": "R95 each. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 11 leaves"
@@ -474,7 +474,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 300,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Sean Chubb (Thurlow)",
     "notes": "Free seeds. Planted 2 Aug 2020. Checked 4 Aug 2024. 1x 8L, 1x 9L, 1x 11L"
@@ -486,7 +486,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 300.0,
     "price": 750,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
     "notes": "Garden World Show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 10L, 1x 7L, 1x 15L, 1x 11L"
@@ -498,7 +498,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 0,
     "price": 100,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Cliviamart",
     "notes": "1 died. Planted 11 Jun 2020"
@@ -510,7 +510,7 @@ const PLANT_DATA = [
     "stock": 9,
     "cost": 300.0,
     "price": 450,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
     "notes": "Garden World Show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 9L, 1x 7L, 1x 5L, 1x 9L, 1x 7L, 1x 13L, 1x 10L, 1x 9L, 1x 9L"
@@ -522,7 +522,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 150.0,
     "price": 400,
-    "type": "Seed",
+    "type": "Near-Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
     "notes": "Garden World Show. 1 died. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 8L, 1x 6L, 1x 5L, 1x 11L"
