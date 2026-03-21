@@ -93,7 +93,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2022",
     "breeder": "Anton van Wouw Show",
-    "notes": "Checked 4 Aug 2024. 1x Mature"
+    "notes": "No flower picture available. Checked 4 Aug 2024. 1x Mature"
   },
   {
     "num": 10,
