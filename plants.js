@@ -101,7 +101,7 @@ const PLANT_DATA = [
     "qty": 6,
     "stock": 7,
     "cost": 2520.0,
-    "price": 850,
+    "price": 950,
     "type": "Mature",
     "maturity": "2023",
     "breeder": "Kential Grove (Craig)",
