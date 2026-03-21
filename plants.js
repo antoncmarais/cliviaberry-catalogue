@@ -53,7 +53,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 350.0,
-    "price": 950,
+    "price": 1500,
     "type": "Mature",
     "maturity": "2022",
     "breeder": "Utopia Clivias",
