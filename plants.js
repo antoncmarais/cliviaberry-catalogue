@@ -21,7 +21,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2023",
     "breeder": "Sean Chubb",
-    "notes": "Checked 4 Aug 2024. 1x 10 leaves, 1x 10 leaves"
+    "notes": "No flower picture available. Checked 4 Aug 2024. 1x 10 leaves, 1x 10 leaves"
   },
   {
     "num": 3,
