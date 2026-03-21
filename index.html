@@ -528,7 +528,7 @@ function renderPlants() {
         <div class="plant-meta">
           <span class="plant-tag plant-tag-type">${p.type}</span>
           ${p.breeder ? `<span class="plant-tag plant-tag-breeder">${p.breeder}</span>` : ''}
-          ${p.maturity && p.maturity !== 'Mature' ? `<span class="plant-tag">Matures ${p.maturity}</span>` : ''}
+          ${p.maturity && p.maturity !== 'Mature' ? `<span class="plant-tag">Maturity ${p.maturity}</span>` : ''}
         </div>
         <div class="plant-bottom">
           <div class="plant-price">R${p.price.toLocaleString()}</div>
@@ -553,7 +553,7 @@ function openModal(num) {
   document.getElementById('modal-tags').innerHTML = `
     <span class="plant-tag plant-tag-type">${p.type}</span>
     ${p.breeder ? `<span class="plant-tag plant-tag-breeder">${p.breeder}</span>` : ''}
-    ${p.maturity ? `<span class="plant-tag">${p.maturity === 'Mature' ? 'Mature Plant' : 'Matures ' + p.maturity}</span>` : ''}
+    ${p.maturity ? `<span class="plant-tag">${p.maturity === 'Mature' ? 'Mature Plant' : 'Maturity ' + p.maturity}</span>` : ''}
   `;
 
   let detail = '';
