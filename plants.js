@@ -69,7 +69,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2024",
     "breeder": "Sean Chubb",
-    "notes": "Only 1 survived"
+    "notes": "No flower picture available. Only 1 survived"
   },
   {
     "num": 7,
