@@ -449,7 +449,7 @@ const PLANT_DATA = [
     "qty": 3,
     "stock": 3,
     "cost": 300.0,
-    "price": 450,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Cliviamart",
@@ -461,11 +461,11 @@ const PLANT_DATA = [
     "qty": 2,
     "stock": 1,
     "cost": 190.0,
-    "price": 400,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "R95 each. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 11 leaves"
+    "notes": "No flower picture available. R95 each. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 11 leaves"
   },
   {
     "num": 43,
@@ -473,7 +473,7 @@ const PLANT_DATA = [
     "qty": 5,
     "stock": 3,
     "cost": 0,
-    "price": 300,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Sean Chubb (Thurlow)",
@@ -485,11 +485,11 @@ const PLANT_DATA = [
     "qty": 10,
     "stock": 4,
     "cost": 300.0,
-    "price": 750,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
-    "notes": "Garden World Show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 10L, 1x 7L, 1x 15L, 1x 11L"
+    "notes": "No flower picture available. Garden World Show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 10L, 1x 7L, 1x 15L, 1x 11L"
   },
   {
     "num": 45,
@@ -497,7 +497,7 @@ const PLANT_DATA = [
     "qty": 3,
     "stock": 2,
     "cost": 0,
-    "price": 100,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Cliviamart",
@@ -509,11 +509,11 @@ const PLANT_DATA = [
     "qty": 10,
     "stock": 9,
     "cost": 300.0,
-    "price": 450,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
-    "notes": "Garden World Show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 9L, 1x 7L, 1x 5L, 1x 9L, 1x 7L, 1x 13L, 1x 10L, 1x 9L, 1x 9L"
+    "notes": "No flower picture available. Garden World Show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 9L, 1x 7L, 1x 5L, 1x 9L, 1x 7L, 1x 13L, 1x 10L, 1x 9L, 1x 9L"
   },
   {
     "num": 47,
@@ -521,11 +521,11 @@ const PLANT_DATA = [
     "qty": 5,
     "stock": 4,
     "cost": 150.0,
-    "price": 400,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
-    "notes": "Garden World Show. 1 died. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 8L, 1x 6L, 1x 5L, 1x 11L"
+    "notes": "No flower picture available. Garden World Show. 1 died. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 8L, 1x 6L, 1x 5L, 1x 11L"
   },
   {
     "num": 48,
@@ -533,7 +533,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 3,
     "cost": 500.0,
-    "price": 600,
+    "price": 500,
     "type": "Mature",
     "maturity": "Mature",
     "breeder": "Garden World Show",
@@ -545,7 +545,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 300.0,
-    "price": 750,
+    "price": 500,
     "type": "Mature",
     "maturity": "Mature",
     "breeder": "Sean Chubb",
@@ -557,7 +557,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 300.0,
-    "price": 750,
+    "price": 500,
     "type": "Mature",
     "maturity": "Mature",
     "breeder": "Sean Chubb",
