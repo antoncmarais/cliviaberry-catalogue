@@ -582,7 +582,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 100,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -618,7 +618,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 125.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -678,7 +678,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 75.0,
     "price": 100,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -690,7 +690,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 65.0,
     "price": 100,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -714,7 +714,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 95.0,
     "price": 150,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -726,7 +726,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 100,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -738,7 +738,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 145.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Utopia Clivias",
     "notes": "Bought 25 Feb 2021"
@@ -750,7 +750,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 300.0,
     "price": 450,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
     "notes": "Planted 6 Jun 2021"
@@ -810,7 +810,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 400.0,
     "price": 600,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Liz Boyd",
     "notes": "Planted 10 Jun 2021. Checked 4 Aug 2024. 1x 4L, 1x 4L"
@@ -822,7 +822,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 250.0,
     "price": 400,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Liz Boyd",
     "notes": "Planted 10 Jun 2021"
@@ -834,7 +834,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 350.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Liz Boyd",
     "notes": "Planted 10 Jun 2021"
@@ -846,7 +846,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Liz Boyd",
     "notes": "Planted 10 Jun 2021. 1 seedling died Jun 2022"
@@ -858,7 +858,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 350.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Liz Boyd",
     "notes": "Planted 10 Jun 2021"
@@ -870,7 +870,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Liz Boyd",
     "notes": "Planted 10 Jun 2021"
@@ -894,7 +894,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 162.5,
     "price": 250,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Hilton Clivias",
     "notes": "Planted 17 May 2021"
@@ -954,7 +954,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
     "notes": "Half price. Planted 6 Jun 2021"
@@ -966,7 +966,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
     "notes": "Half price. Planted 6 Jun 2021"
@@ -1002,7 +1002,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 120.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Cliviamart",
     "notes": "Planted 20 Jun 2021"
@@ -1014,7 +1014,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 150.0,
     "price": 200,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "Cliviamart",
     "notes": "Planted 20 Jun 2021"
@@ -1026,7 +1026,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 180.0,
     "price": 250,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "George Mann (Incredible Plants)",
     "notes": "Planted 23 Jul 2021"
@@ -1062,7 +1062,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 280.0,
     "price": 400,
-    "type": "Seedling",
+    "type": "Mature",
     "maturity": "2026",
     "breeder": "George Mann (Incredible Plants)",
     "notes": "Planted 23 Jul 2021"
