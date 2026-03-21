@@ -285,7 +285,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "No flower picture available. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 15 leaves"
+    "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 15 leaves"
   },
   {
     "num": 27,
@@ -321,7 +321,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Karkloof Clivias",
-    "notes": "No flower picture available. Planted Jun 2020. Checked 4 Aug 2024. 1x 7L, 1x 7L, 1x 8L"
+    "notes": "Planted Jun 2020. Checked 4 Aug 2024. 1x 7L, 1x 7L, 1x 8L"
   },
   {
     "num": 30,
@@ -333,7 +333,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Karkloof Clivias",
-    "notes": "No flower picture available. Planted Jun 2020. 1 seedling died Jun 2022. Checked 4 Aug 2024. 1x 12L, 1x 5L"
+    "notes": "Planted Jun 2020. 1 seedling died Jun 2022. Checked 4 Aug 2024. 1x 12L, 1x 5L"
   },
   {
     "num": 31,
