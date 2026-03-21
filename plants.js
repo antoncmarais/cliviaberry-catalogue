@@ -341,7 +341,7 @@ const PLANT_DATA = [
     "qty": 3,
     "stock": 3,
     "cost": 100.0,
-    "price": 300,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Clivia Paradise",
@@ -353,7 +353,7 @@ const PLANT_DATA = [
     "qty": 5,
     "stock": 3,
     "cost": 1000.0,
-    "price": 1500,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Sean Chubb",
@@ -365,11 +365,11 @@ const PLANT_DATA = [
     "qty": 5,
     "stock": 3,
     "cost": 200.0,
-    "price": 250,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Chris Viljoen",
-    "notes": "Garden World show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 4L, 1x 6L, 1x 8L"
+    "notes": "No flower picture available. Garden World show. Planted 30 Aug 2020. Checked 4 Aug 2024. 1x 4L, 1x 6L, 1x 8L"
   },
   {
     "num": 34,
@@ -377,11 +377,11 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 45.0,
-    "price": 300,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 10 leaves"
+    "notes": "No flower picture available. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 10 leaves"
   },
   {
     "num": 35,
@@ -389,11 +389,11 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 55.0,
-    "price": 200,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 6 leaves"
+    "notes": "No flower picture available. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 6 leaves"
   },
   {
     "num": 36,
@@ -401,11 +401,11 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 65.0,
-    "price": 200,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 6 leaves"
+    "notes": "No flower picture available. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 6 leaves"
   },
   {
     "num": 38,
@@ -413,11 +413,11 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 75.0,
-    "price": 200,
+    "price": 500,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 8 leaves"
+    "notes": "No flower picture available. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 8 leaves"
   },
   {
     "num": 39,
@@ -425,11 +425,11 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 50.0,
-    "price": 150,
+    "price": 500,
     "type": "Mature",
     "maturity": "2024",
     "breeder": "Marius (Kempton Park)",
-    "notes": ""
+    "notes": "No flower picture available. "
   },
   {
     "num": 40,
@@ -437,7 +437,7 @@ const PLANT_DATA = [
     "qty": 5,
     "stock": 4,
     "cost": 500.0,
-    "price": 750,
+    "price": 950,
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Sean Chubb",
