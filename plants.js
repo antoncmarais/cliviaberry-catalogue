@@ -561,7 +561,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "Mature",
     "breeder": "Sean Chubb",
-    "notes": "Garden World show 30 Aug 2020"
+    "notes": "No flower picture available. Garden World show 30 Aug 2020"
   },
   {
     "num": 51,
