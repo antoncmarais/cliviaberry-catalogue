@@ -1245,7 +1245,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Sean Chubb",
-    "notes": ""
+    "notes": "No flower picture available. "
   },
   {
     "num": 108,
