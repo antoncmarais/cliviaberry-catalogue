@@ -1261,7 +1261,7 @@ const PLANT_DATA = [
   },
   {
     "num": 109,
-    "name": "Four Mary's (Mcniell collection) x Apple",
+    "name": "Four Mary's (Mcniell collection) x Apple Blossom (Mark Lewis from Lotter collection)",
     "qty": 3,
     "stock": 3,
     "cost": 100.0,
@@ -1285,7 +1285,7 @@ const PLANT_DATA = [
   },
   {
     "num": 111,
-    "name": "Jade Starlight (Cameron peach (plant out of Piets Pride)",
+    "name": "Jade Starlight (Cameron peach (plant out of Piets Pride) x Coco Chanel)",
     "qty": 3,
     "stock": 3,
     "cost": 100.0,
@@ -1293,11 +1293,11 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie se Hoekie",
-    "notes": ""
+    "notes": "A Tipperary peach with a lovely pink colour and nice broad tepals. Checked 4 August 2024"
   },
   {
     "num": 112,
-    "name": "F2 Blushing Angel (Four Mary) x Magnificent",
+    "name": "F2 Blushing Angel (Four Mary) x Magnificent Mary (McNeill collection)",
     "qty": 5,
     "stock": 1,
     "cost": 100.0,
@@ -1465,7 +1465,7 @@ const PLANT_DATA = [
   },
   {
     "num": 127,
-    "name": "Multi Gold Double Petal F1 x (Gold Cup x",
+    "name": "Multi Gold Double Petal F1 x (Gold Cup x Hattori)",
     "qty": 1,
     "stock": 1,
     "cost": 200.0,
@@ -1897,7 +1897,7 @@ const PLANT_DATA = [
   },
   {
     "num": 163,
-    "name": "(Green/white face-TK original x Star Green) x",
+    "name": "(Green/white face-TK original x Star Green) x Brown Eyed Girl",
     "qty": 4,
     "stock": 4,
     "cost": 400.0,
@@ -1957,7 +1957,7 @@ const PLANT_DATA = [
   },
   {
     "num": 168,
-    "name": "David’s Queen x Self",
+    "name": "David\u2019s Queen x Self",
     "qty": 3,
     "stock": 3,
     "cost": 450.0,
@@ -2089,7 +2089,7 @@ const PLANT_DATA = [
   },
   {
     "num": 179,
-    "name": "(Gem’s Apoline x Gem’s Golden Renaissance) x",
+    "name": "(Gem's Apoline x Gem's Golden Renaissance) x (Everton Green Goblin x Gem's Apoline)",
     "qty": 3,
     "stock": 3,
     "cost": 300.0,
@@ -2101,7 +2101,7 @@ const PLANT_DATA = [
   },
   {
     "num": 180,
-    "name": "Robusta F2 Cross x Danie’s Dame",
+    "name": "Robusta F2 Cross x Danie\u2019s Dame",
     "qty": 3,
     "stock": 3,
     "cost": 150.0,
@@ -2113,7 +2113,7 @@ const PLANT_DATA = [
   },
   {
     "num": 181,
-    "name": "Super Burgundy x Gem’s Dark Knight",
+    "name": "Super Burgundy x Gem\u2019s Dark Knight",
     "qty": 3,
     "stock": 3,
     "cost": 300.0,
@@ -2125,7 +2125,7 @@ const PLANT_DATA = [
   },
   {
     "num": 182,
-    "name": "Bronze with Green Inter x Gem’s Crimson Lady",
+    "name": "Bronze with Green Inter x Gem\u2019s Crimson Lady",
     "qty": 3,
     "stock": 3,
     "cost": 450.0,
@@ -2149,7 +2149,7 @@ const PLANT_DATA = [
   },
   {
     "num": 184,
-    "name": "Gem’s Uber Yellow x Gem’s Mentos",
+    "name": "Gem\u2019s Uber Yellow x Gem\u2019s Mentos",
     "qty": 1,
     "stock": 1,
     "cost": 0,
@@ -2281,7 +2281,7 @@ const PLANT_DATA = [
   },
   {
     "num": 195,
-    "name": "Pink Panther x Corra’s Crown Jewel",
+    "name": "Pink Panther x Corra\u2019s Crown Jewel",
     "qty": 1,
     "stock": 1,
     "cost": 100.0,
@@ -2329,7 +2329,7 @@ const PLANT_DATA = [
   },
   {
     "num": 199,
-    "name": "Londolozi x Danie’s Dane",
+    "name": "Londolozi x Danie\u2019s Dane",
     "qty": 3,
     "stock": 3,
     "cost": 50.0,
@@ -2497,7 +2497,7 @@ const PLANT_DATA = [
   },
   {
     "num": 213,
-    "name": "Dawie’s Bronze",
+    "name": "Dawie\u2019s Bronze",
     "qty": 1,
     "stock": 1,
     "cost": 0,
@@ -3001,7 +3001,7 @@ const PLANT_DATA = [
   },
   {
     "num": 255,
-    "name": "Shania x Shania’s Daughter",
+    "name": "Shania x Shania\u2019s Daughter",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -3337,7 +3337,7 @@ const PLANT_DATA = [
   },
   {
     "num": 283,
-    "name": "Jason’s Bronze x Tangelo",
+    "name": "Jason\u2019s Bronze x Tangelo",
     "qty": 9,
     "stock": 9,
     "cost": 50.0,
@@ -3349,7 +3349,7 @@ const PLANT_DATA = [
   },
   {
     "num": 284,
-    "name": "Super Vico Peach x Greenboy’s Maverick",
+    "name": "Super Vico Peach x Greenboy\u2019s Maverick",
     "qty": 2,
     "stock": 2,
     "cost": 500.0,
@@ -3373,7 +3373,7 @@ const PLANT_DATA = [
   },
   {
     "num": 286,
-    "name": "Happy Wanderer x Angel’s Calling",
+    "name": "Happy Wanderer x Angel\u2019s Calling",
     "qty": 3,
     "stock": 1,
     "cost": 300.0,
@@ -3625,7 +3625,7 @@ const PLANT_DATA = [
   },
   {
     "num": 307,
-    "name": "Tangello 1 x Luke’s Special x Chiffon",
+    "name": "Tangello 1 x Luke\u2019s Special x Chiffon",
     "qty": 3,
     "stock": 3,
     "cost": 250.0,
@@ -3709,7 +3709,7 @@ const PLANT_DATA = [
   },
   {
     "num": 314,
-    "name": "Cynthia’s Best x Dijon",
+    "name": "Cynthia\u2019s Best x Dijon",
     "qty": 1,
     "stock": 1,
     "cost": 0,
@@ -3733,7 +3733,7 @@ const PLANT_DATA = [
   },
   {
     "num": 316,
-    "name": "(#13 Charl’s Green x Hirao ) x (#100 Charl’s Green x Hirao )",
+    "name": "(#13 Charl\u2019s Green x Hirao ) x (#100 Charl\u2019s Green x Hirao )",
     "qty": 15,
     "stock": 15,
     "cost": 0,
@@ -3913,7 +3913,7 @@ const PLANT_DATA = [
   },
   {
     "num": 331,
-    "name": "Gem’s Mr.Smith x Gem’s Pink Peppermint",
+    "name": "Gem\u2019s Mr.Smith x Gem\u2019s Pink Peppermint",
     "qty": 3,
     "stock": 3,
     "cost": 300.0,
@@ -4009,7 +4009,7 @@ const PLANT_DATA = [
   },
   {
     "num": 339,
-    "name": "Cassiopeia x Bronnies Myriad AKA B’s Baby Shower",
+    "name": "Cassiopeia x Bronnies Myriad AKA B\u2019s Baby Shower",
     "qty": 3,
     "stock": 3,
     "cost": 900.0,
@@ -4093,7 +4093,7 @@ const PLANT_DATA = [
   },
   {
     "num": 346,
-    "name": "(Andrew Gibson x Yoko) x Pang’s Blush",
+    "name": "(Andrew Gibson x Yoko) x Pang\u2019s Blush",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4117,7 +4117,7 @@ const PLANT_DATA = [
   },
   {
     "num": 348,
-    "name": "Eye Candy x Pang’s Blush",
+    "name": "Eye Candy x Pang\u2019s Blush",
     "qty": 6,
     "stock": 6,
     "cost": 0,
@@ -4129,7 +4129,7 @@ const PLANT_DATA = [
   },
   {
     "num": 349,
-    "name": "(Eye Candy x Andrew Gibson) x Pang’s Blush",
+    "name": "(Eye Candy x Andrew Gibson) x Pang\u2019s Blush",
     "qty": 6,
     "stock": 6,
     "cost": 0,
@@ -4285,7 +4285,7 @@ const PLANT_DATA = [
   },
   {
     "num": 362,
-    "name": "Nando’s x Civil War",
+    "name": "Nando\u2019s x Civil War",
     "qty": 2,
     "stock": 2,
     "cost": 200.0,
@@ -4297,7 +4297,7 @@ const PLANT_DATA = [
   },
   {
     "num": 363,
-    "name": "Cirque du Soleil x Gems Izzy’s Blush",
+    "name": "Cirque du Soleil x Gems Izzy\u2019s Blush",
     "qty": 3,
     "stock": 3,
     "cost": 500.0,
