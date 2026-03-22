@@ -465,7 +465,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2025",
     "breeder": "Utopia Clivias",
-    "notes": "No flower picture available. R95 each. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 11 leaves"
+    "notes": "R95 each. Planted 9 Jul 2020. Checked 4 Aug 2024. 1x 11 leaves"
   },
   {
     "num": 43,
