@@ -945,7 +945,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
-    "notes": "No flower picture available. Half price. Planted 6 Jun 2021. Checked 4 Aug 2024. 1x 7L, 1x 9L"
+    "notes": "Half price. Planted 6 Jun 2021. Checked 4 Aug 2024. 1x 7L, 1x 9L"
   },
   {
     "num": 83,
@@ -957,7 +957,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
-    "notes": "No flower picture available. Half price. Planted 6 Jun 2021"
+    "notes": "Half price. Planted 6 Jun 2021"
   },
   {
     "num": 84,
@@ -969,7 +969,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
-    "notes": "No flower picture available. Half price. Planted 6 Jun 2021"
+    "notes": "Half price. Planted 6 Jun 2021"
   },
   {
     "num": 85,
