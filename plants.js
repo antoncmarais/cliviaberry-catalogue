@@ -3769,7 +3769,7 @@ const PLANT_DATA = [
   },
   {
     "num": 319,
-    "name": "",
+    "name": "GEMS Green Fury x Fairy Dance",
     "qty": 3,
     "stock": 3,
     "cost": 360.0,
