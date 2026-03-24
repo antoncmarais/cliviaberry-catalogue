@@ -2538,7 +2538,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 80.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": ""
@@ -2550,7 +2550,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 2L"
@@ -2562,7 +2562,7 @@ const PLANT_DATA = [
     "stock": 6,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2574,7 +2574,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2586,7 +2586,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2598,7 +2598,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2610,7 +2610,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2622,7 +2622,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
@@ -2634,7 +2634,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 950,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2646,7 +2646,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2658,7 +2658,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -2670,7 +2670,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 150.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2682,7 +2682,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2694,7 +2694,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2706,7 +2706,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
@@ -2718,7 +2718,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2730,7 +2730,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 450.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2742,7 +2742,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2754,7 +2754,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2766,7 +2766,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2778,7 +2778,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
@@ -2790,7 +2790,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2802,7 +2802,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 150.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2814,7 +2814,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 50.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 5x 1L"
@@ -2826,7 +2826,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
@@ -2838,7 +2838,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2850,7 +2850,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2862,7 +2862,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2874,7 +2874,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2886,7 +2886,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 7.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2898,7 +2898,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 50.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2910,7 +2910,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2922,7 +2922,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2934,7 +2934,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 70.0,
     "price": 500,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2946,7 +2946,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 50.0,
     "price": 950,
-    "type": "Seed",
+    "type": "Seedling",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
