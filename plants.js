@@ -2397,7 +2397,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2024",
     "breeder": "Raymond Lotz",
-    "notes": "Checked 4 August 2024. Leaves: 1x 15L, 1x 11L"
+    "notes": "Sold as a Hirao but came out Orange. Checked 4 August 2024. Leaves: 1x 15L, 1x 11L"
   },
   {
     "num": 205,
