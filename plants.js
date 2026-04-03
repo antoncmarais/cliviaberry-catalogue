@@ -5113,7 +5113,7 @@ const PLANT_DATA = [
   },
   {
     "num": 431,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems African Journey x Hattori Picotee x Gems Master Pedi",
     "qty": 3,
     "stock": 3,
     "cost": 500.0,
@@ -5125,7 +5125,7 @@ const PLANT_DATA = [
   },
   {
     "num": 432,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Excellence x Gems Elysian Fields x Gems Roarke",
     "qty": 3,
     "stock": 3,
     "cost": 600.0,
@@ -5137,7 +5137,7 @@ const PLANT_DATA = [
   },
   {
     "num": 433,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Zodiac Capricorn (Hattori Picotee x Gemeni) x Gems Zodiac Scorpio (Hattori Picotee x Gemeni)",
     "qty": 3,
     "stock": 3,
     "cost": 500.0,
@@ -5149,7 +5149,7 @@ const PLANT_DATA = [
   },
   {
     "num": 434,
-    "name": "Turning 5 years old in 2030",
+    "name": "Lisa Mannion x Yellow Blush Monk x Gems Opal Major Multi Trait",
     "qty": 3,
     "stock": 3,
     "cost": 400.0,
@@ -5161,7 +5161,7 @@ const PLANT_DATA = [
   },
   {
     "num": 435,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Opal Wave x Gems Opal Triumph",
     "qty": 3,
     "stock": 3,
     "cost": 400.0,
@@ -5173,7 +5173,7 @@ const PLANT_DATA = [
   },
   {
     "num": 436,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Shadow Multi (Fantasm x Nakamura Best Multi Ghost) x Self",
     "qty": 3,
     "stock": 3,
     "cost": 600.0,
@@ -5185,7 +5185,7 @@ const PLANT_DATA = [
   },
   {
     "num": 437,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems East Meets West x Gems Opal Storm (Japanese TK Daruma x Chinese Blush Monk)",
     "qty": 3,
     "stock": 3,
     "cost": 400.0,
@@ -5197,7 +5197,7 @@ const PLANT_DATA = [
   },
   {
     "num": 438,
-    "name": "Turning 5 years old in 2030",
+    "name": "(Miniata Y29 x Gems Morganite) x Fontellis Gold x Self",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -5209,7 +5209,7 @@ const PLANT_DATA = [
   },
   {
     "num": 439,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Jade Queen (Min Hyb 26 x Gems Jade Ivory) x Gems Izzys First",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -5221,7 +5221,7 @@ const PLANT_DATA = [
   },
   {
     "num": 440,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Joyfull (Japanese Yellow TK Daruma x Gems Golden Renaissance) x Gems Pondo Smile",
     "qty": 3,
     "stock": 3,
     "cost": 0,
