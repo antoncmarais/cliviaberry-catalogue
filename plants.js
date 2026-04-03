@@ -5029,7 +5029,7 @@ const PLANT_DATA = [
   },
   {
     "num": 424,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Opal Lolli x Gems Opal Joy",
     "qty": 3,
     "stock": 3,
     "cost": 400.0,
@@ -5041,7 +5041,7 @@ const PLANT_DATA = [
   },
   {
     "num": 425,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Opal Triumph x Yellow Very Compact Group 1 Japan Import ex PS",
     "qty": 3,
     "stock": 3,
     "cost": 400.0,
@@ -5053,7 +5053,7 @@ const PLANT_DATA = [
   },
   {
     "num": 426,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Opal Rose",
     "qty": 3,
     "stock": 3,
     "cost": 500.0,
@@ -5065,7 +5065,7 @@ const PLANT_DATA = [
   },
   {
     "num": 427,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Samson (Hattori Picotee x Gems Monsters Mug) x Gems Samson",
     "qty": 3,
     "stock": 3,
     "cost": 500.0,
@@ -5077,7 +5077,7 @@ const PLANT_DATA = [
   },
   {
     "num": 428,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Opal Jessi x Gems Savage Beauty",
     "qty": 3,
     "stock": 3,
     "cost": 600.0,
@@ -5089,7 +5089,7 @@ const PLANT_DATA = [
   },
   {
     "num": 429,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Reward x Gems Savage Beauty",
     "qty": 3,
     "stock": 3,
     "cost": 600.0,
@@ -5101,7 +5101,7 @@ const PLANT_DATA = [
   },
   {
     "num": 430,
-    "name": "Turning 5 years old in 2030",
+    "name": "Gems Zodiac Libra (Gemeni x Hattori Picotee) x Self",
     "qty": 3,
     "stock": 3,
     "cost": 500.0,
