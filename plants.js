@@ -4513,7 +4513,7 @@ const PLANT_DATA = [
   },
   {
     "num": 381,
-    "name": "",
+    "name": "Chinese Blush x Bloos",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4525,7 +4525,7 @@ const PLANT_DATA = [
   },
   {
     "num": 382,
-    "name": "",
+    "name": "Compact Bronze x Belgian Bronze",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4537,7 +4537,7 @@ const PLANT_DATA = [
   },
   {
     "num": 383,
-    "name": "",
+    "name": "Crown Prince x Bronze",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4549,7 +4549,7 @@ const PLANT_DATA = [
   },
   {
     "num": 384,
-    "name": "",
+    "name": "F1 from Habitat cross x Sweetheart Lady",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4561,7 +4561,7 @@ const PLANT_DATA = [
   },
   {
     "num": 385,
-    "name": "",
+    "name": "Paradise Love x Virgin Blush Breeding",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4573,7 +4573,7 @@ const PLANT_DATA = [
   },
   {
     "num": 386,
-    "name": "",
+    "name": "Blushing Virgin Breeding x Angelica Breeding",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4585,7 +4585,7 @@ const PLANT_DATA = [
   },
   {
     "num": 387,
-    "name": "",
+    "name": "Imported Hirao x Leisl Hirao",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4597,7 +4597,7 @@ const PLANT_DATA = [
   },
   {
     "num": 388,
-    "name": "",
+    "name": "Hoopoe x (Braam 777 x Stone Cradle)",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4609,7 +4609,7 @@ const PLANT_DATA = [
   },
   {
     "num": 389,
-    "name": "",
+    "name": "Tangello x (Hirao x Hattori Bicolour)",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4621,7 +4621,7 @@ const PLANT_DATA = [
   },
   {
     "num": 390,
-    "name": "",
+    "name": "(Bruni x Tanchoo 2) x Hoopoe",
     "qty": 3,
     "stock": 3,
     "cost": 0,
