@@ -4369,7 +4369,7 @@ const PLANT_DATA = [
   },
   {
     "num": 369,
-    "name": "",
+    "name": "Pink Nobilis with Yellow Berries Selfed",
     "qty": 3,
     "stock": 3,
     "cost": 250.0,
@@ -4381,7 +4381,7 @@ const PLANT_DATA = [
   },
   {
     "num": 370,
-    "name": "",
+    "name": "Soutpansberg Caulescens Cross x Mirabilis Cross",
     "qty": 3,
     "stock": 3,
     "cost": 120.0,
@@ -4393,7 +4393,7 @@ const PLANT_DATA = [
   },
   {
     "num": 371,
-    "name": "",
+    "name": "(Soft Touch x Dagga Cookie) x (Split Love Child x Three Sevens)",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4405,7 +4405,7 @@ const PLANT_DATA = [
   },
   {
     "num": 372,
-    "name": "",
+    "name": "Molly Breeding x Love Child",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4417,7 +4417,7 @@ const PLANT_DATA = [
   },
   {
     "num": 373,
-    "name": "",
+    "name": "Molly Breeding x Shania",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4429,7 +4429,7 @@ const PLANT_DATA = [
   },
   {
     "num": 374,
-    "name": "",
+    "name": "(Nobilis x Miniata) x Secret Star",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4441,7 +4441,7 @@ const PLANT_DATA = [
   },
   {
     "num": 375,
-    "name": "",
+    "name": "Straberry Don x Tangello",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4453,7 +4453,7 @@ const PLANT_DATA = [
   },
   {
     "num": 376,
-    "name": "",
+    "name": "Piapple Five x Straberry Don",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4465,7 +4465,7 @@ const PLANT_DATA = [
   },
   {
     "num": 377,
-    "name": "",
+    "name": "Artrie's Jade (Star Dust) x Strawberry Don",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4477,7 +4477,7 @@ const PLANT_DATA = [
   },
   {
     "num": 378,
-    "name": "",
+    "name": "Luke's Special x Strawberry Don",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4489,7 +4489,7 @@ const PLANT_DATA = [
   },
   {
     "num": 379,
-    "name": "",
+    "name": "(Red Lady x Coromandel) x Redro",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4501,7 +4501,7 @@ const PLANT_DATA = [
   },
   {
     "num": 380,
-    "name": "",
+    "name": "(Red Velvit x Rudo's Best Red) x Redro",
     "qty": 3,
     "stock": 3,
     "cost": 0,
