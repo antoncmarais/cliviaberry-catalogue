@@ -4357,7 +4357,7 @@ const PLANT_DATA = [
   },
   {
     "num": 368,
-    "name": "Splas h x Splash",
+    "name": "Splash x Splash",
     "qty": 1,
     "stock": 1,
     "cost": 0,
