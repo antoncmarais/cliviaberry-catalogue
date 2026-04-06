@@ -534,7 +534,7 @@ function renderPlants() {
         <div class="plant-number">Plant #${p.num}</div>
         <div class="plant-name">${p.name}</div>
         <div class="plant-meta">
-          <span class="plant-tag plant-tag-type plant-tag-${p.type.toLowerCase().replace(' ','-')}">${p.type}</span>
+          ${p.type ? `<span class="plant-tag plant-tag-type plant-tag-${p.type.toLowerCase().replace(' ','-')}">${p.type}</span>` : ''}
           ${p.breeder ? `<span class="plant-tag plant-tag-breeder">${p.breeder}</span>` : ''}
           ${p.maturity && p.maturity !== 'Mature' ? `<span class="plant-tag">Maturity ${p.maturity}</span>` : ''}
         </div>
@@ -559,7 +559,7 @@ function openModal(num) {
   document.getElementById('modal-stock').textContent = `${p.stock} available`;
 
   document.getElementById('modal-tags').innerHTML = `
-    <span class="plant-tag plant-tag-type plant-tag-${p.type.toLowerCase().replace(' ','-')}">${p.type}</span>
+    ${p.type ? `<span class="plant-tag plant-tag-type plant-tag-${p.type.toLowerCase().replace(' ','-')}">${p.type}</span>` : ''}
     ${p.breeder ? `<span class="plant-tag plant-tag-breeder">${p.breeder}</span>` : ''}
     ${p.maturity && p.maturity !== 'Mature' ? `<span class="plant-tag">Maturity ${p.maturity}</span>` : ''}
   `;
