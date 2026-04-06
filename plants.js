@@ -2418,7 +2418,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 950,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2027",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024. Leaves: 1x 8L"
@@ -2538,7 +2538,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 80.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": ""
@@ -2550,7 +2550,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 2L"
@@ -2562,7 +2562,7 @@ const PLANT_DATA = [
     "stock": 6,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2574,7 +2574,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2586,7 +2586,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2598,7 +2598,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2610,7 +2610,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2622,7 +2622,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
@@ -2634,7 +2634,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 950,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2646,7 +2646,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2658,7 +2658,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -2670,7 +2670,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 150.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2682,7 +2682,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2694,7 +2694,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2706,7 +2706,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
@@ -2718,7 +2718,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2730,7 +2730,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 450.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2742,7 +2742,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2754,7 +2754,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2766,7 +2766,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2778,7 +2778,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
@@ -2790,7 +2790,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2802,7 +2802,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 150.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2814,7 +2814,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 50.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 5x 1L"
@@ -2826,7 +2826,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 200.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
@@ -2838,7 +2838,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2850,7 +2850,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2862,7 +2862,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2874,7 +2874,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2886,7 +2886,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 7.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2898,7 +2898,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 50.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2910,7 +2910,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2922,7 +2922,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 100.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2934,7 +2934,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 70.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2946,7 +2946,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 50.0,
     "price": 950,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
@@ -2958,7 +2958,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -2982,7 +2982,7 @@ const PLANT_DATA = [
     "stock": 6,
     "cost": 0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Rienie de Beer",
     "notes": ""
@@ -2994,7 +2994,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Rienie de Beer",
     "notes": ""
@@ -3006,7 +3006,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Rienie de Beer",
     "notes": ""
@@ -3018,7 +3018,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Rienie de Beer",
     "notes": ""
@@ -3030,7 +3030,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Rienie de Beer",
     "notes": ""
@@ -3042,7 +3042,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Rienie de Beer",
     "notes": ""
@@ -3066,7 +3066,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Chris Smit",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3078,7 +3078,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Chris Smit",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3090,7 +3090,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Chris Smit",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3102,7 +3102,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 540.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Maggle Webster",
     "notes": "Checked 4 August 2024. Leaves: 9x 2L"
@@ -3114,7 +3114,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 560.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Maggle Webster",
     "notes": "Checked 4 August 2024. Leaves: 6x 2L"
@@ -3126,7 +3126,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 180.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Maggle Webster",
     "notes": "Checked 4 August 2024. Leaves: 3x 2L"
@@ -3138,7 +3138,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Maggle Webster",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3150,7 +3150,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "",
     "notes": "No flower picture available. Checked 4 August 2024. Leaves: 4x 1L"
@@ -3162,7 +3162,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 3L"
@@ -3174,7 +3174,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 4L"
@@ -3186,7 +3186,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 5L"
@@ -3198,7 +3198,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 3L"
@@ -3210,7 +3210,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 3x 5L"
@@ -3222,7 +3222,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 4L"
@@ -3234,7 +3234,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 5L, 1x 4L"
@@ -3246,7 +3246,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 600.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024. Leaves: 6x 5L"
@@ -3258,7 +3258,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "",
     "notes": ""
@@ -3270,7 +3270,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 210.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie Strydom",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3282,7 +3282,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 300.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie Strydom",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3294,7 +3294,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie Strydom",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3306,7 +3306,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie Strydom",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
@@ -3318,7 +3318,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 300.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Dawie Strydom",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
@@ -3330,7 +3330,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024. Leaves: 1x 1L"
@@ -3342,7 +3342,7 @@ const PLANT_DATA = [
     "stock": 9,
     "cost": 50.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Ian Roberts",
     "notes": "Checked 4 August 2024"
@@ -3354,7 +3354,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 500.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024"
@@ -3366,7 +3366,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024"
@@ -3378,7 +3378,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 300.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024. Leaves: 1x 5L"
@@ -3390,7 +3390,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024. Leaves: 1x 3L"
@@ -3402,7 +3402,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": "Checked 4 August 2024. Leaves: 2x 4L"
@@ -3414,7 +3414,7 @@ const PLANT_DATA = [
     "stock": 12,
     "cost": 320.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3426,7 +3426,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 130.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3438,7 +3438,7 @@ const PLANT_DATA = [
     "stock": 6,
     "cost": 100.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3450,7 +3450,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 80.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3462,7 +3462,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 160.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3474,7 +3474,7 @@ const PLANT_DATA = [
     "stock": 8,
     "cost": 160.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3486,7 +3486,7 @@ const PLANT_DATA = [
     "stock": 6,
     "cost": 160.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3498,7 +3498,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 80.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024"
@@ -3510,7 +3510,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3522,7 +3522,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3534,7 +3534,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3546,7 +3546,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 2000.0,
     "price": 2000,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3558,7 +3558,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 450.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3570,7 +3570,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 2000.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3582,7 +3582,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3594,7 +3594,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -3606,7 +3606,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Francois van Rooyen",
     "notes": ""
@@ -3618,7 +3618,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "Francois van Rooyen",
     "notes": ""
@@ -3630,7 +3630,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 250.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "George Mann",
     "notes": ""
@@ -3642,7 +3642,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 250.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "George Mann",
     "notes": ""
@@ -3654,7 +3654,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 200.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2029",
     "breeder": "George Mann",
     "notes": ""
@@ -3666,7 +3666,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 1.0,
     "price": 950,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Francois van Rooyen",
     "notes": ""
@@ -3678,7 +3678,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 1.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Francois van Rooyen",
     "notes": ""
@@ -3690,7 +3690,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 1.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Francois van Rooyen",
     "notes": ""
@@ -3702,7 +3702,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 125.0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Francois van Rooyen",
     "notes": ""
@@ -3714,7 +3714,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 0,
     "price": 500,
-    "type": "Seedling",
+    "type": "",
     "maturity": "2028",
     "breeder": "Gerhard Faber",
     "notes": "No flower picture available. "
@@ -4693,7 +4693,7 @@ const PLANT_DATA = [
   },
   {
     "num": 396,
-    "name": "(Grand Diva x Rumple) x (777 Sten – 777 Firestone x 777 Serenity)",
+    "name": "(Grand Diva x Rumple) x (777 Sten \u2013 777 Firestone x 777 Serenity)",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4705,7 +4705,7 @@ const PLANT_DATA = [
   },
   {
     "num": 397,
-    "name": "(777 Firestone x (Pico Starlette x Andrew Gibson)) x (777 Sten – 777 Firestone x 777 Serenity)",
+    "name": "(777 Firestone x (Pico Starlette x Andrew Gibson)) x (777 Sten \u2013 777 Firestone x 777 Serenity)",
     "qty": 3,
     "stock": 3,
     "cost": 0,
@@ -4758,7 +4758,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Sean Chubb",
     "notes": ""
@@ -4770,7 +4770,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 1500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Sean Chubb",
     "notes": ""
@@ -4782,7 +4782,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4794,7 +4794,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 1.0,
     "price": 950,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4806,7 +4806,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4818,7 +4818,7 @@ const PLANT_DATA = [
     "stock": 13,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4830,7 +4830,7 @@ const PLANT_DATA = [
     "stock": 10,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4842,7 +4842,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4854,7 +4854,7 @@ const PLANT_DATA = [
     "stock": 4,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4866,7 +4866,7 @@ const PLANT_DATA = [
     "stock": 7,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4878,7 +4878,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4890,7 +4890,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4902,7 +4902,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 300.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4914,7 +4914,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4926,7 +4926,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4938,7 +4938,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 300.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4950,7 +4950,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie se Hoekie",
     "notes": ""
@@ -4962,7 +4962,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 300.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4974,7 +4974,7 @@ const PLANT_DATA = [
     "stock": 1,
     "cost": 30.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4986,7 +4986,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 200.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -4998,7 +4998,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -5010,7 +5010,7 @@ const PLANT_DATA = [
     "stock": 5,
     "cost": 5.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Dawie van Heerden",
     "notes": ""
@@ -5022,7 +5022,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5034,7 +5034,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5046,7 +5046,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5058,7 +5058,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5070,7 +5070,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5082,7 +5082,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 600.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5094,7 +5094,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 600.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5106,7 +5106,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5118,7 +5118,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5130,7 +5130,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 600.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5142,7 +5142,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 500.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5154,7 +5154,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5166,7 +5166,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5178,7 +5178,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 600.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5190,7 +5190,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 400.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5202,7 +5202,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5214,7 +5214,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5226,7 +5226,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5238,7 +5238,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gem Wildflowers",
     "notes": ""
@@ -5250,7 +5250,7 @@ const PLANT_DATA = [
     "stock": 2,
     "cost": 1000.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -5262,7 +5262,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 750.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -5274,7 +5274,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1000.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -5286,7 +5286,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 4500.0,
     "price": 1500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gerhard Faber",
     "notes": ""
@@ -5298,7 +5298,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 1.0,
     "price": 500,
-    "type": "Seed",
+    "type": "",
     "maturity": "2030",
     "breeder": "Gerhard Faber",
     "notes": ""
