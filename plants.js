@@ -1203,7 +1203,7 @@ const PLANT_DATA = [
     "num": 104,
     "name": "Green of Hearts x Best Hirao 2016",
     "qty": 5,
-    "stock": 5,
+    "stock": 0,
     "cost": 300.0,
     "price": 950,
     "type": "Mature",
