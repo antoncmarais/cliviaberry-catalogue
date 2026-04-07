@@ -1169,7 +1169,7 @@ const PLANT_DATA = [
     "qty": 5,
     "stock": 2,
     "cost": 300.0,
-    "price": 750,
+    "price": 950,
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Sean Chubb",
