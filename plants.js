@@ -1289,7 +1289,7 @@ const PLANT_DATA = [
     "qty": 3,
     "stock": 3,
     "cost": 100.0,
-    "price": 500,
+    "price": 950,
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie se Hoekie",
