@@ -1639,7 +1639,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": "No flower picture available. "
   },
@@ -1651,7 +1651,7 @@ const PLANT_DATA = [
     "cost": 300.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": "No flower picture available. "
   },
@@ -1663,7 +1663,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": "No flower picture available. "
   },
@@ -1675,7 +1675,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": "No flower picture available. "
   },
@@ -1687,7 +1687,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": "No flower picture available. "
   },
@@ -1699,7 +1699,7 @@ const PLANT_DATA = [
     "cost": 0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": ""
   },
@@ -1711,7 +1711,7 @@ const PLANT_DATA = [
     "cost": 0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": ""
   },
@@ -1723,7 +1723,7 @@ const PLANT_DATA = [
     "cost": 0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Rienie de Beer",
     "notes": ""
   },
@@ -1747,7 +1747,7 @@ const PLANT_DATA = [
     "cost": 60.0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024. Leaves: 1x 5L, 1x 8L"
   },
@@ -1759,7 +1759,7 @@ const PLANT_DATA = [
     "cost": 0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024. Leaves: 1x 6L"
   },
@@ -1771,7 +1771,7 @@ const PLANT_DATA = [
     "cost": 60.0,
     "price": 500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hennie Strauss",
     "notes": ""
   },
@@ -1783,7 +1783,7 @@ const PLANT_DATA = [
     "cost": 60.0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hennie Strauss",
     "notes": "Checked 4 August 2024. Leaves: 3x 5L"
   },
@@ -1795,7 +1795,7 @@ const PLANT_DATA = [
     "cost": 60.0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hennie Strauss",
     "notes": ""
   },
@@ -1807,7 +1807,7 @@ const PLANT_DATA = [
     "cost": 200.0,
     "price": 500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Liz Boyd",
     "notes": "No flower picture available. "
   },
@@ -1819,7 +1819,7 @@ const PLANT_DATA = [
     "cost": 300.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Liz Boyd",
     "notes": "No flower picture available. "
   },
@@ -1831,7 +1831,7 @@ const PLANT_DATA = [
     "cost": 250.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Liz Boyd",
     "notes": "No flower picture available. "
   },
@@ -1843,7 +1843,7 @@ const PLANT_DATA = [
     "cost": 220.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hilton Clivias",
     "notes": "No flower picture available. Checked 4 August 2024. Leaves: 1x 7L, 1x 8L"
   },
@@ -1855,7 +1855,7 @@ const PLANT_DATA = [
     "cost": 250.0,
     "price": 500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hilton Clivias",
     "notes": ""
   },
@@ -1867,7 +1867,7 @@ const PLANT_DATA = [
     "cost": 220.0,
     "price": 500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hilton Clivias",
     "notes": "No flower picture available. "
   },
@@ -1879,7 +1879,7 @@ const PLANT_DATA = [
     "cost": 0,
     "price": 450,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Hilton Clivias",
     "notes": "No flower picture available. "
   },
@@ -1891,7 +1891,7 @@ const PLANT_DATA = [
     "cost": 600.0,
     "price": 1500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie Snyman",
     "notes": ""
   },
@@ -1903,7 +1903,7 @@ const PLANT_DATA = [
     "cost": 400.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie Snyman",
     "notes": ""
   },
@@ -1915,7 +1915,7 @@ const PLANT_DATA = [
     "cost": 400.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie Snyman",
     "notes": ""
   },
@@ -1927,7 +1927,7 @@ const PLANT_DATA = [
     "cost": 400.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie Snyman",
     "notes": "Checked 4 August 2024. Leaves: 1x 10L, 1x 11L, 1x 8L, 1x 8L"
   },
@@ -1939,7 +1939,7 @@ const PLANT_DATA = [
     "cost": 450.0,
     "price": 1500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie Snyman",
     "notes": ""
   },
@@ -1951,7 +1951,7 @@ const PLANT_DATA = [
     "cost": 120.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Cora's Clivias",
     "notes": "No flower picture available. "
   },
@@ -1963,7 +1963,7 @@ const PLANT_DATA = [
     "cost": 450.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Cora's Clivias",
     "notes": "No flower picture available. "
   },
@@ -1975,7 +1975,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Cora's Clivias",
     "notes": "No flower picture available. "
   },
@@ -1987,7 +1987,7 @@ const PLANT_DATA = [
     "cost": 300.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Cora's Clivias",
     "notes": "No flower picture available. "
   },
@@ -1999,7 +1999,7 @@ const PLANT_DATA = [
     "cost": 300.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Cora's Clivias",
     "notes": "No flower picture available. "
   },
@@ -2011,7 +2011,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Cora's Clivias",
     "notes": "No flower picture available. "
   },
@@ -2083,7 +2083,7 @@ const PLANT_DATA = [
     "cost": 800.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Maggle Webster",
     "notes": "No flower picture available. Checked 4 August 2024"
   },
@@ -2095,7 +2095,7 @@ const PLANT_DATA = [
     "cost": 300.0,
     "price": 1500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Francois van Rooyen",
     "notes": "No flower picture available. "
   },
@@ -2107,7 +2107,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 2000,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Francois van Rooyen",
     "notes": "No flower picture available. "
   },
@@ -2119,7 +2119,7 @@ const PLANT_DATA = [
     "cost": 300.0,
     "price": 1500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Francois van Rooyen",
     "notes": "No flower picture available. "
   },
@@ -2131,7 +2131,7 @@ const PLANT_DATA = [
     "cost": 450.0,
     "price": 1500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Francois van Rooyen",
     "notes": "No flower picture available. "
   },
@@ -2143,7 +2143,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 1500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Francois van Rooyen",
     "notes": "No flower picture available. "
   },
@@ -2155,7 +2155,7 @@ const PLANT_DATA = [
     "cost": 0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Francois van Rooyen",
     "notes": "No flower picture available. "
   },
@@ -2167,7 +2167,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2179,7 +2179,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2191,7 +2191,7 @@ const PLANT_DATA = [
     "cost": 200.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": "Checked 4 August 2024"
   },
@@ -2203,7 +2203,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2215,7 +2215,7 @@ const PLANT_DATA = [
     "cost": 250.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2227,7 +2227,7 @@ const PLANT_DATA = [
     "cost": 150.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2239,7 +2239,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2251,7 +2251,7 @@ const PLANT_DATA = [
     "cost": 50.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2263,7 +2263,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2275,7 +2275,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2287,7 +2287,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 750,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Sean Chubb",
     "notes": ""
   },
@@ -2299,7 +2299,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2311,7 +2311,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 950,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2323,7 +2323,7 @@ const PLANT_DATA = [
     "cost": 100.0,
     "price": 500,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
@@ -2335,7 +2335,7 @@ const PLANT_DATA = [
     "cost": 50.0,
     "price": 1250,
     "type": "Mature",
-    "maturity": "",
+    "maturity": "2027",
     "breeder": "Dawie van Heerden",
     "notes": ""
   },
