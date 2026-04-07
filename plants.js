@@ -1239,7 +1239,7 @@ const PLANT_DATA = [
     "num": 107,
     "name": "Second chance Mix",
     "qty": 10,
-    "stock": 10,
+    "stock": 0,
     "cost": 0,
     "price": 500,
     "type": "Mature",
