@@ -2357,7 +2357,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 3,
     "cost": 100.0,
-    "price": 500,
+    "price": 950,
     "type": "Mature",
     "maturity": "2024",
     "breeder": "Raymond Lotz",
