@@ -1179,7 +1179,7 @@ const PLANT_DATA = [
     "num": 102,
     "name": "Love Child x Love Child F1 2017",
     "qty": 5,
-    "stock": 4,
+    "stock": 0,
     "cost": 1000.0,
     "price": 1500,
     "type": "Mature",
