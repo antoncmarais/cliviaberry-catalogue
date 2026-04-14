@@ -4324,8 +4324,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 250.0,
     "price": 250,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4336,8 +4335,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 120.0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4348,8 +4346,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 250,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4360,8 +4357,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4372,8 +4368,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4384,8 +4379,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4396,8 +4390,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 250,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4408,8 +4401,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4420,8 +4412,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4432,8 +4423,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4444,8 +4434,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4456,8 +4445,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4468,8 +4456,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4480,8 +4467,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 250,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4492,8 +4478,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4504,8 +4489,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4516,8 +4500,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4528,8 +4511,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4540,8 +4522,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4552,8 +4533,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4564,8 +4544,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4576,8 +4555,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4588,8 +4566,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4600,8 +4577,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4612,8 +4588,7 @@ const PLANT_DATA = [
     "stock": 6,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4624,8 +4599,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4636,8 +4610,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "Chris Smit",
     "notes": ""
   },
@@ -4648,8 +4621,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 400,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "George Mann",
     "notes": ""
   },
@@ -4660,8 +4632,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 280,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "George Mann",
     "notes": "No flower picture available. "
   },
@@ -4672,8 +4643,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 300,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "George Mann",
     "notes": "No flower picture available. "
   },
@@ -4684,8 +4654,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 200,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "George Mann",
     "notes": "No flower picture available. "
   },
@@ -4696,8 +4665,7 @@ const PLANT_DATA = [
     "stock": 3,
     "cost": 0,
     "price": 350,
-    "type": "Mature",
-    "maturity": "",
+    "maturity": "2030",
     "breeder": "George Mann",
     "notes": "No flower picture available. "
   },
