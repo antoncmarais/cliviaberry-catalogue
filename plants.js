@@ -2439,7 +2439,7 @@ const PLANT_DATA = [
     "num": 208,
     "name": "Nobilis from Yao",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 0,
     "price": 2000,
     "type": "Mature",
