@@ -1256,7 +1256,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024"
   },
   {
@@ -1268,7 +1268,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 6L, 1x 6L, 1x 10L"
   },
   {
@@ -1280,7 +1280,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 9L, 1x 9L, 1x 12L"
   },
   {
@@ -1292,7 +1292,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "A Tipperary peach with a lovely pink colour and nice broad tepals. Checked 4 August 2024"
   },
   {
@@ -1304,7 +1304,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 10L"
   },
   {
@@ -1316,7 +1316,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 10L"
   },
   {
@@ -1328,7 +1328,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 11L"
   },
   {
@@ -1340,7 +1340,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -1352,7 +1352,7 @@ const PLANT_DATA = [
     "price": 1500,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 7L"
   },
   {
@@ -1364,7 +1364,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 6L, 1x 14L, 1x 8L"
   },
   {
@@ -1376,7 +1376,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -1388,7 +1388,7 @@ const PLANT_DATA = [
     "price": 450,
     "type": "Mature",
     "maturity": "2026",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 7L, 1x 10L"
   },
   {
@@ -2168,7 +2168,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2180,7 +2180,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2192,7 +2192,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": "Checked 4 August 2024"
   },
   {
@@ -2204,7 +2204,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2216,7 +2216,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2228,7 +2228,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2240,7 +2240,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2252,7 +2252,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2264,7 +2264,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2276,7 +2276,7 @@ const PLANT_DATA = [
     "price": 750,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2300,7 +2300,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2312,7 +2312,7 @@ const PLANT_DATA = [
     "price": 950,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2324,7 +2324,7 @@ const PLANT_DATA = [
     "price": 500,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2336,7 +2336,7 @@ const PLANT_DATA = [
     "price": 1250,
     "type": "Mature",
     "maturity": "2027",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -2552,7 +2552,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 2L"
   },
   {
@@ -2564,7 +2564,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2576,7 +2576,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2588,7 +2588,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2600,7 +2600,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2612,7 +2612,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2624,7 +2624,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
   },
   {
@@ -2636,7 +2636,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2648,7 +2648,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2660,7 +2660,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 3x 1L"
   },
   {
@@ -2672,7 +2672,7 @@ const PLANT_DATA = [
     "price": 300,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2684,7 +2684,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2696,7 +2696,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2708,7 +2708,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
   },
   {
@@ -2720,7 +2720,7 @@ const PLANT_DATA = [
     "price": 50,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2732,7 +2732,7 @@ const PLANT_DATA = [
     "price": 900,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2744,7 +2744,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2756,7 +2756,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2768,7 +2768,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2780,7 +2780,7 @@ const PLANT_DATA = [
     "price": 500,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
   },
   {
@@ -2792,7 +2792,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2804,7 +2804,7 @@ const PLANT_DATA = [
     "price": 300,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2816,7 +2816,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 5x 1L"
   },
   {
@@ -2828,7 +2828,7 @@ const PLANT_DATA = [
     "price": 400,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 1L"
   },
   {
@@ -2840,7 +2840,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2852,7 +2852,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2864,7 +2864,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2876,7 +2876,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2888,7 +2888,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2900,7 +2900,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2912,7 +2912,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2924,7 +2924,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2936,7 +2936,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -2948,7 +2948,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 4x 1L"
   },
   {
@@ -2960,7 +2960,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2029",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -3164,7 +3164,7 @@ const PLANT_DATA = [
     "price": 500,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 3L"
   },
   {
@@ -3176,7 +3176,7 @@ const PLANT_DATA = [
     "price": 600,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 4L"
   },
   {
@@ -3188,7 +3188,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 5L"
   },
   {
@@ -3200,7 +3200,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 1x 3L"
   },
   {
@@ -3212,7 +3212,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 3x 5L"
   },
   {
@@ -3224,7 +3224,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 4L"
   },
   {
@@ -3236,7 +3236,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2028",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": "Checked 4 August 2024. Leaves: 2x 5L, 1x 4L"
   },
   {
@@ -4702,7 +4702,7 @@ const PLANT_DATA = [
     "price": 300,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4714,7 +4714,7 @@ const PLANT_DATA = [
     "price": 300,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4726,7 +4726,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4738,7 +4738,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4750,7 +4750,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4762,7 +4762,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4774,7 +4774,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4786,7 +4786,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4798,7 +4798,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4810,7 +4810,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4822,7 +4822,7 @@ const PLANT_DATA = [
     "price": 250,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4834,7 +4834,7 @@ const PLANT_DATA = [
     "price": 150,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4846,7 +4846,7 @@ const PLANT_DATA = [
     "price": 150,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4858,7 +4858,7 @@ const PLANT_DATA = [
     "price": 300,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4870,7 +4870,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie se Hoekie",
     "notes": ""
   },
   {
@@ -4882,7 +4882,7 @@ const PLANT_DATA = [
     "price": 300,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4894,7 +4894,7 @@ const PLANT_DATA = [
     "price": 150,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4906,7 +4906,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4918,7 +4918,7 @@ const PLANT_DATA = [
     "price": 150,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
@@ -4930,7 +4930,7 @@ const PLANT_DATA = [
     "price": 200,
     "type": "",
     "maturity": "2030",
-    "breeder": "Dawie Strydom",
+    "breeder": "Dawie van Heerden",
     "notes": ""
   },
   {
