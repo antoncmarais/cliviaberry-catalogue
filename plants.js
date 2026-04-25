@@ -5220,5 +5220,17 @@ const PLANT_DATA = [
     "maturity": "2030",
     "breeder": "Gerhard Faber",
     "notes": ""
+  },
+  {
+    "num": 447,
+    "name": "Ambar Downs Peach x Yellow",
+    "qty": 3,
+    "stock": 3,
+    "cost": 0.0,
+    "price": 350,
+    "type": "",
+    "maturity": "2030",
+    "breeder": "Unknown",
+    "notes": "Use plant 86 image on left and plant 37 image on right"
   }
 ];
