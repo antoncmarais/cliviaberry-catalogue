@@ -5400,5 +5400,17 @@ const PLANT_DATA = [
     "maturity": "Mature",
     "breeder": "Unknown",
     "notes": ""
+  },
+  {
+    "num": 462,
+    "name": "Chinese Blush",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 950,
+    "type": "",
+    "maturity": "Mature",
+    "breeder": "Dawie Strydom",
+    "notes": ""
   }
 ];
