@@ -5327,6 +5327,6 @@ const PLANT_DATA = [
     "type": "",
     "maturity": "2028",
     "breeder": "Chris Smit",
-    "notes": "SL 2513"
+    "notes": "SL 2521"
   }
 ];
