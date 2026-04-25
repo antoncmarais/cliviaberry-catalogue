@@ -5364,5 +5364,17 @@ const PLANT_DATA = [
     "maturity": "2028",
     "breeder": "Chris Smit",
     "notes": "SL 2540"
+  },
+  {
+    "num": 459,
+    "name": "Mopi Hirt x Tanika x Tancho",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 500,
+    "type": "",
+    "maturity": "2028",
+    "breeder": "Chris Smit",
+    "notes": "SL 2547"
   }
 ];
