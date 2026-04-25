@@ -5229,8 +5229,8 @@ const PLANT_DATA = [
     "cost": 0.0,
     "price": 350,
     "type": "",
-    "maturity": "2030",
-    "breeder": "Unknown",
-    "notes": "Use plant 86 image on left and plant 37 image on right"
+    "maturity": "2027",
+    "breeder": "Cliviaberry",
+    "notes": ""
   }
 ];
