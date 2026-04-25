@@ -5308,8 +5308,8 @@ const PLANT_DATA = [
   {
     "num": 454,
     "name": "Cinnamon MT x Hirao",
-    "qty": 1,
-    "stock": 1,
+    "qty": 2,
+    "stock": 2,
     "cost": 0.0,
     "price": 500,
     "type": "",
