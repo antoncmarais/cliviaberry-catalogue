@@ -5283,7 +5283,7 @@ const PLANT_DATA = [
   },
   {
     "num": 452,
-    "name": "SL 2505 Chris Smit",
+    "name": "Fairy Tale Breeding x Bronze Split Naude",
     "qty": 1,
     "stock": 1,
     "cost": 0.0,
@@ -5291,6 +5291,6 @@ const PLANT_DATA = [
     "type": "",
     "maturity": "2028",
     "breeder": "Chris Smit",
-    "notes": ""
+    "notes": "SL 2505"
   }
 ];
