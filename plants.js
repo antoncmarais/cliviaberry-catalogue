@@ -5340,5 +5340,17 @@ const PLANT_DATA = [
     "maturity": "2028",
     "breeder": "Chris Smit",
     "notes": "SL 2526"
+  },
+  {
+    "num": 457,
+    "name": "Bruin Groen x Love Child",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 750,
+    "type": "",
+    "maturity": "2028",
+    "breeder": "Chris Smit",
+    "notes": "SL 2536"
   }
 ];
