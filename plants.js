@@ -5376,5 +5376,17 @@ const PLANT_DATA = [
     "maturity": "2028",
     "breeder": "Chris Smit",
     "notes": "SL 2547"
+  },
+  {
+    "num": 460,
+    "name": "Cinnamon Bronze MT x Hirao",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 500,
+    "type": "",
+    "maturity": "2028",
+    "breeder": "Chris Smit",
+    "notes": "SL 2551"
   }
 ];
