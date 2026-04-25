@@ -5243,6 +5243,6 @@ const PLANT_DATA = [
     "type": "",
     "maturity": "2027",
     "breeder": "Random Harvest",
-    "notes": ""
+    "notes": "Two offsets with the plant"
   }
 ];
