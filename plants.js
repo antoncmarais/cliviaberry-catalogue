@@ -5267,6 +5267,6 @@ const PLANT_DATA = [
     "type": "",
     "maturity": "Mature",
     "breeder": "Dawie Strydom",
-    "notes": ""
+    "notes": "Pigmented from a green papaya plant out of (Gunston bronze x Charl's Green x Hirao Pikkie). The plant should be a very nice bronze or bi-colour."
   }
 ];
