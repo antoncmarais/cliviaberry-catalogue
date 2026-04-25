@@ -5244,5 +5244,17 @@ const PLANT_DATA = [
     "maturity": "2027",
     "breeder": "Random Harvest",
     "notes": "Two offsets with the plant"
+  },
+  {
+    "num": 449,
+    "name": "Random Harvest Nobilis",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 2000,
+    "type": "",
+    "maturity": "Mature",
+    "breeder": "Random Harvest",
+    "notes": ""
   }
 ];
