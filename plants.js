@@ -5280,5 +5280,17 @@ const PLANT_DATA = [
     "maturity": "2028",
     "breeder": "Chris Smit",
     "notes": "SL 2504"
+  },
+  {
+    "num": 452,
+    "name": "SL 2505 Chris Smit",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 500,
+    "type": "",
+    "maturity": "2028",
+    "breeder": "Chris Smit",
+    "notes": ""
   }
 ];
