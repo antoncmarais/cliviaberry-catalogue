@@ -5263,7 +5263,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 0.0,
-    "price": 0,
+    "price": 950,
     "type": "",
     "maturity": "Mature",
     "breeder": "Dawie Strydom",
