@@ -5259,7 +5259,7 @@ const PLANT_DATA = [
   },
   {
     "num": 450,
-    "name": "Pigmented Gunrao x Hirao",
+    "name": "Gunston bronze x Charl's Green x Hirao Pikkie",
     "qty": 1,
     "stock": 1,
     "cost": 0.0,
