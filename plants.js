@@ -5268,5 +5268,17 @@ const PLANT_DATA = [
     "maturity": "Mature",
     "breeder": "Dawie Strydom",
     "notes": "Pigmented from a green papaya plant out of (Gunston bronze x Charl's Green x Hirao Pikkie). The plant should be a very nice bronze or bi-colour."
+  },
+  {
+    "num": 451,
+    "name": "Recurve Interspec x French Manicure",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 500,
+    "type": "",
+    "maturity": "2028",
+    "breeder": "Chris Smit",
+    "notes": ""
   }
 ];
