@@ -5292,5 +5292,17 @@ const PLANT_DATA = [
     "maturity": "2028",
     "breeder": "Chris Smit",
     "notes": "SL 2505"
+  },
+  {
+    "num": 453,
+    "name": "Gardenii x Malachite",
+    "qty": 1,
+    "stock": 1,
+    "cost": 0.0,
+    "price": 500,
+    "type": "",
+    "maturity": "2028",
+    "breeder": "Chris Smit",
+    "notes": "SL 2508"
   }
 ];
