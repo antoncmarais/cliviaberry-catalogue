@@ -938,8 +938,8 @@ const PLANT_DATA = [
   {
     "num": 82,
     "name": "F1 Golden Dragon (Gol Drag x Yel Naka x Little Swan Blush) x Compact Tiger",
-    "qty": 4,
-    "stock": 2,
+    "qty": 6,
+    "stock": 6,
     "cost": 200.0,
     "price": 1500,
     "type": "Mature",
