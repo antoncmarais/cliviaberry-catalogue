@@ -1082,8 +1082,8 @@ const PLANT_DATA = [
   {
     "num": 94,
     "name": "(BxB) x McNeil GreenGirl x Autumn Whisper x Autumn Whisper",
-    "qty": 3,
-    "stock": 1,
+    "qty": 2,
+    "stock": 2,
     "cost": 100.0,
     "price": 950,
     "type": "Mature",
