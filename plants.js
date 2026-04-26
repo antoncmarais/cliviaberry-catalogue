@@ -1047,7 +1047,7 @@ const PLANT_DATA = [
     "num": 91,
     "name": "777 Bleeding Heart x (Naude Peach x Hattori)",
     "qty": 2,
-    "stock": 1,
+    "stock": 2,
     "cost": 100.0,
     "price": 1250,
     "type": "Mature",
