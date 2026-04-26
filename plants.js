@@ -134,8 +134,8 @@ const PLANT_DATA = [
   {
     "num": 14,
     "name": "Hirao x Charl's Green",
-    "qty": 1,
-    "stock": 1,
+    "qty": 3,
+    "stock": 3,
     "cost": 2500.0,
     "price": 2500,
     "type": "Mature",
