@@ -854,8 +854,8 @@ const PLANT_DATA = [
   {
     "num": 75,
     "name": "Dotti I x Multi Interspec",
-    "qty": 3,
-    "stock": 3,
+    "qty": 1,
+    "stock": 1,
     "cost": 350.0,
     "price": 1200,
     "type": "Mature",
