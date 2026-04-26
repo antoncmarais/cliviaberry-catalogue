@@ -782,8 +782,8 @@ const PLANT_DATA = [
   {
     "num": 69,
     "name": "Green Surprise 777-14 x Recurving Full Green Brown 777-1",
-    "qty": 3,
-    "stock": 3,
+    "qty": 5,
+    "stock": 5,
     "cost": 360.0,
     "price": 1500,
     "type": "Mature",
