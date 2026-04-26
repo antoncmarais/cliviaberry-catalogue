@@ -5224,8 +5224,8 @@ const PLANT_DATA = [
   {
     "num": 447,
     "name": "Ambar Downs Peach x Yellow",
-    "qty": 4,
-    "stock": 4,
+    "qty": 5,
+    "stock": 5,
     "cost": 0.0,
     "price": 350,
     "type": "",
