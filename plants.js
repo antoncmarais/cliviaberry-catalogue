@@ -5320,8 +5320,8 @@ const PLANT_DATA = [
   {
     "num": 455,
     "name": "Simply Pink x Four Seasons x European Peach",
-    "qty": 1,
-    "stock": 1,
+    "qty": 2,
+    "stock": 2,
     "cost": 0.0,
     "price": 500,
     "type": "",
