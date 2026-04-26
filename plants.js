@@ -5416,13 +5416,13 @@ const PLANT_DATA = [
   {
     "num": 463,
     "name": "Lucky Packet",
-    "qty": 1,
-    "stock": 1,
+    "qty": 2,
+    "stock": 2,
     "cost": 0.0,
     "price": 200,
     "type": "",
-    "maturity": "",
+    "maturity": "Mature",
     "breeder": "Unknown",
-    "notes": "R200 a plant"
+    "notes": "Random mature plants with no identification"
   }
 ];
