@@ -5416,8 +5416,8 @@ const PLANT_DATA = [
   {
     "num": 463,
     "name": "Lucky Packet",
-    "qty": 8,
-    "stock": 8,
+    "qty": 9,
+    "stock": 9,
     "cost": 0.0,
     "price": 200,
     "type": "",
