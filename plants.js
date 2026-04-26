@@ -1034,8 +1034,8 @@ const PLANT_DATA = [
   {
     "num": 90,
     "name": "(Naude Peach x Hattori) x (Naude Peach x Hattori)",
-    "qty": 3,
-    "stock": 1,
+    "qty": 2,
+    "stock": 2,
     "cost": 150.0,
     "price": 1250,
     "type": "Mature",
