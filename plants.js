@@ -818,8 +818,8 @@ const PLANT_DATA = [
   {
     "num": 72,
     "name": "Party Time x Kiko",
-    "qty": 3,
-    "stock": 3,
+    "qty": 2,
+    "stock": 2,
     "cost": 250.0,
     "price": 1500,
     "type": "Mature",
