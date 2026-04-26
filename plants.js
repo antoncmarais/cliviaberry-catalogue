@@ -866,8 +866,8 @@ const PLANT_DATA = [
   {
     "num": 76,
     "name": "Nobilis x Robusta F1",
-    "qty": 3,
-    "stock": 3,
+    "qty": 2,
+    "stock": 2,
     "cost": 150.0,
     "price": 1500,
     "type": "Mature",
