@@ -723,7 +723,7 @@ const PLANT_DATA = [
     "num": 64,
     "name": "Efyd Original x Autumn Whisper",
     "qty": 1,
-    "stock": 0,
+    "stock": 1,
     "cost": 0,
     "price": 750,
     "type": "Mature",
