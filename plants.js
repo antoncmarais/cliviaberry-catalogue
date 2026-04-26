@@ -998,8 +998,8 @@ const PLANT_DATA = [
   {
     "num": 87,
     "name": "(Athena x Hirao) x Tjokkie",
-    "qty": 3,
-    "stock": 3,
+    "qty": 1,
+    "stock": 1,
     "cost": 120.0,
     "price": 950,
     "type": "Mature",
