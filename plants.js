@@ -5428,8 +5428,8 @@ const PLANT_DATA = [
   {
     "num": 464,
     "name": "Kirstenbosch",
-    "qty": 2,
-    "stock": 2,
+    "qty": 3,
+    "stock": 3,
     "cost": 0.0,
     "price": 200,
     "type": "",
