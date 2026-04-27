@@ -431,7 +431,7 @@
 
 <!-- FILTERS -->
 <div class="filters" id="catalogue">
-  <input type="text" class="filter-search" id="search" placeholder="Search by name, breeder, or variety...">
+  <input type="text" class="filter-search" id="search" placeholder="Search by plant number, name, breeder, or variety...">
   <select class="filter-select" id="filter-type">
     <option value="">All Types</option>
     <option value="Seed">Seeds</option>
@@ -508,6 +508,7 @@ function renderPlants() {
 
   let filtered = plants.filter(p => {
     const matchSearch = !search ||
+      String(p.num).includes(search) ||
       p.name.toLowerCase().includes(search) ||
       (p.breeder && p.breeder.toLowerCase().includes(search)) ||
       (p.notes && p.notes.toLowerCase().includes(search));
