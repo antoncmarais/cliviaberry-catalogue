@@ -2969,7 +2969,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 150.0,
-    "price": 300,
+    "price": 500,
     "type": "Mature",
     "maturity": "",
     "breeder": "Rienie de Beer",
