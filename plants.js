@@ -3329,7 +3329,7 @@ const PLANT_DATA = [
     "qty": 2,
     "stock": 0,
     "cost": 750.0,
-    "price": 500,
+    "price": 2000,
     "type": "",
     "maturity": "2029",
     "breeder": "Gerhard Faber",
