@@ -2425,7 +2425,7 @@ const PLANT_DATA = [
   },
   {
     "num": 207,
-    "name": "Random Harvest Robusta x Nobilis",
+    "name": "Robusta x Nobilis",
     "qty": 1,
     "stock": 0,
     "cost": 300.0,
@@ -5235,26 +5235,26 @@ const PLANT_DATA = [
   },
   {
     "num": 448,
-    "name": "Random Harvest Robusta x Nobilis",
+    "name": "Robusta x Nobilis",
     "qty": 1,
     "stock": 1,
     "cost": 0.0,
     "price": 3000,
     "type": "",
     "maturity": "2027",
-    "breeder": "Random Harvest",
+    "breeder": "",
     "notes": "Two offsets with the plant"
   },
   {
     "num": 449,
-    "name": "Random Harvest Nobilis",
+    "name": "Nobilis",
     "qty": 1,
     "stock": 1,
     "cost": 0.0,
     "price": 2000,
     "type": "",
     "maturity": "Mature",
-    "breeder": "Random Harvest",
+    "breeder": "",
     "notes": ""
   },
   {
