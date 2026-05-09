@@ -1899,7 +1899,7 @@ const PLANT_DATA = [
     "num": 163,
     "name": "(Green/white face-TK original x Star Green) x Brown Eyed Girl",
     "qty": 4,
-    "stock": 2,
+    "stock": 0,
     "cost": 400.0,
     "price": 1250,
     "type": "Mature",
