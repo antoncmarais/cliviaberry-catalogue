@@ -1827,7 +1827,7 @@ const PLANT_DATA = [
     "num": 157,
     "name": "Patience x 142/Mirabilis Interspec",
     "qty": 3,
-    "stock": 1,
+    "stock": 0,
     "cost": 250.0,
     "price": 1250,
     "type": "Mature",
