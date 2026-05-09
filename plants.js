@@ -831,7 +831,7 @@ const PLANT_DATA = [
     "num": 73,
     "name": "Golden Ren x Multi Interspec",
     "qty": 3,
-    "stock": 3,
+    "stock": 0,
     "cost": 350.0,
     "price": 950,
     "type": "Mature",
