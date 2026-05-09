@@ -3555,7 +3555,7 @@ const PLANT_DATA = [
     "num": 301,
     "name": "Happy Wanderer x MP Interspecific J.v.E",
     "qty": 3,
-    "stock": 1,
+    "stock": 0,
     "cost": 450.0,
     "price": 200,
     "type": "",
