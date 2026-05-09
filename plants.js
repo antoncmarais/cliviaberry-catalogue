@@ -2667,7 +2667,7 @@ const PLANT_DATA = [
     "num": 227,
     "name": "Flaming Sensation",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 150.0,
     "price": 300,
     "type": "",
