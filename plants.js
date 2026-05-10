@@ -3780,7 +3780,7 @@ const PLANT_DATA = [
     "num": 320,
     "name": "GEM Dark Emperor x Tjokkie",
     "qty": 3,
-    "stock": 3,
+    "stock": 0,
     "cost": 500.0,
     "price": 500,
     "maturity": "2030",
