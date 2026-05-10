@@ -639,7 +639,7 @@ const PLANT_DATA = [
     "num": 57,
     "name": "Tora x Pedigree Hirao",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 85.0,
     "price": 1200,
     "type": "Mature",
