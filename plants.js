@@ -675,7 +675,7 @@ const PLANT_DATA = [
     "num": 60,
     "name": "Pixie Slippers x Happy Wanderer",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 75.0,
     "price": 950,
     "type": "Mature",
