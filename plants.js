@@ -3087,7 +3087,7 @@ const PLANT_DATA = [
     "num": 262,
     "name": "Ngome Interspec x (Star Green x Self)",
     "qty": 3,
-    "stock": 1,
+    "stock": 0,
     "cost": 0,
     "price": 250,
     "type": "",
