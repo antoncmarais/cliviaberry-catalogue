@@ -1959,7 +1959,7 @@ const PLANT_DATA = [
     "num": 168,
     "name": "David\u2019s Queen x Self",
     "qty": 3,
-    "stock": 2,
+    "stock": 0,
     "cost": 450.0,
     "price": 950,
     "type": "Mature",
