@@ -3303,7 +3303,7 @@ const PLANT_DATA = [
     "num": 280,
     "name": "Burgundy Red x Potpourri Yellow Drops",
     "qty": 3,
-    "stock": 1,
+    "stock": 0,
     "cost": 400.0,
     "price": 250,
     "type": "",
