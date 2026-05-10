@@ -2223,7 +2223,7 @@ const PLANT_DATA = [
     "num": 190,
     "name": "Magnificent Mary x Self",
     "qty": 2,
-    "stock": 2,
+    "stock": 0,
     "cost": 150.0,
     "price": 1250,
     "type": "Mature",
