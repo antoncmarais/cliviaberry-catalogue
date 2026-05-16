@@ -2415,7 +2415,7 @@ const PLANT_DATA = [
     "num": 206,
     "name": "Star Green Cross x Star Ghost",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 0,
     "price": 1500,
     "type": "",
