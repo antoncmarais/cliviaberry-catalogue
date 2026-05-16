@@ -1935,7 +1935,7 @@ const PLANT_DATA = [
     "num": 166,
     "name": "((Miniata X Caulescens) x Pink Nobilis) x Versi Wonderland",
     "qty": 6,
-    "stock": 6,
+    "stock": 0,
     "cost": 450.0,
     "price": 1500,
     "type": "Mature",
