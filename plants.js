@@ -3459,7 +3459,7 @@ const PLANT_DATA = [
     "num": 293,
     "name": "Nobilis x Nobilis",
     "qty": 3,
-    "stock": 3,
+    "stock": 0,
     "cost": 160.0,
     "price": 200,
     "type": "",
