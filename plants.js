@@ -3399,7 +3399,7 @@ const PLANT_DATA = [
     "num": 288,
     "name": "Autumn Romance x Jamir Bells",
     "qty": 3,
-    "stock": 1,
+    "stock": 0,
     "cost": 500.0,
     "price": 300,
     "type": "",
