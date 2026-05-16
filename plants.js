@@ -1923,7 +1923,7 @@ const PLANT_DATA = [
     "num": 165,
     "name": "Emmadale x Princess",
     "qty": 4,
-    "stock": 4,
+    "stock": 0,
     "cost": 400.0,
     "price": 1250,
     "type": "Mature",
