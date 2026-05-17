@@ -1707,7 +1707,7 @@ const PLANT_DATA = [
     "num": 147,
     "name": "Marella Selfed",
     "qty": 5,
-    "stock": 5,
+    "stock": 0,
     "cost": 0,
     "price": 750,
     "type": "Mature",
