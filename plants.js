@@ -1815,7 +1815,7 @@ const PLANT_DATA = [
     "num": 156,
     "name": "Nobilis/Short x 142/Mirabilis Interspec",
     "qty": 3,
-    "stock": 2,
+    "stock": 0,
     "cost": 300.0,
     "price": 1250,
     "type": "Mature",
