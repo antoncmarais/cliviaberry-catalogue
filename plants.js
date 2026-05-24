@@ -291,7 +291,7 @@ const PLANT_DATA = [
     "num": 27,
     "name": "Charl's Green x Stoetbul",
     "qty": 3,
-    "stock": 2,
+    "stock": 0,
     "cost": 150.0,
     "price": 1200,
     "type": "Mature",
