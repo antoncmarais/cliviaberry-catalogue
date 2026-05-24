@@ -957,7 +957,7 @@ const PLANT_DATA = [
     "type": "Mature",
     "maturity": "2026",
     "breeder": "Dawie Strydom",
-    "notes": "Half price. Planted 6 Jun 2021"
+    "notes": "Planted 6 Jun 2021"
   },
   {
     "num": 84,
