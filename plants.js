@@ -1145,7 +1145,7 @@ const PLANT_DATA = [
     "qty": 1,
     "stock": 1,
     "cost": 2000.0,
-    "price": 2500,
+    "price": 3000,
     "type": "Mature",
     "maturity": "Mature",
     "breeder": "Elroy (Clivias4sale WhatsApp)",
