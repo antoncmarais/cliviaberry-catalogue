@@ -2643,7 +2643,7 @@ const PLANT_DATA = [
     "num": 225,
     "name": "Pesach Pleasure",
     "qty": 5,
-    "stock": 5,
+    "stock": 0,
     "cost": 100.0,
     "price": 200,
     "type": "",
