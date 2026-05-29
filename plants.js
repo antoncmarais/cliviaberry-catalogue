@@ -687,7 +687,7 @@ const PLANT_DATA = [
     "num": 61,
     "name": "Victorian Renaissance x Self",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 65.0,
     "price": 950,
     "type": "Mature",
