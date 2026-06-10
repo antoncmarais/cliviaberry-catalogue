@@ -5213,7 +5213,7 @@ const PLANT_DATA = [
     "num": 446,
     "name": "K.Visser Pink Ispec x MiraJohn",
     "qty": 3,
-    "stock": 2,
+    "stock": 0,
     "cost": 1.0,
     "price": 1000,
     "type": "",
