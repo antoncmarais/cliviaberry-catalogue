@@ -3327,7 +3327,7 @@ const PLANT_DATA = [
     "num": 282,
     "name": "K.Visser I/Spec x Sparrow Jamir 2.0",
     "qty": 2,
-    "stock": 1,
+    "stock": 0,
     "cost": 750.0,
     "price": 2000,
     "type": "",
