@@ -2619,7 +2619,7 @@ const PLANT_DATA = [
     "num": 223,
     "name": "Corras Crown Jewel x Zagora",
     "qty": 2,
-    "stock": 1,
+    "stock": 0,
     "cost": 100,
     "price": 200,
     "type": "",
