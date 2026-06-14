@@ -3243,7 +3243,7 @@ const PLANT_DATA = [
     "num": 275,
     "name": "Happy Wanderer",
     "qty": 12,
-    "stock": 1,
+    "stock": 0,
     "cost": 600,
     "price": 1000,
     "type": "",
