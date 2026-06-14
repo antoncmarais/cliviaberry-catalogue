@@ -711,7 +711,7 @@ const PLANT_DATA = [
     "num": 63,
     "name": "Misty Mountain x Jade Amber",
     "qty": 1,
-    "stock": 1,
+    "stock": 0,
     "cost": 95,
     "price": 950,
     "type": "Mature",
