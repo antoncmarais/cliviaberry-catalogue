@@ -987,7 +987,7 @@ const PLANT_DATA = [
     "num": 86,
     "name": "Ambar Peach",
     "qty": 17,
-    "stock": 17,
+    "stock": 16,
     "cost": 80,
     "price": 500,
     "type": "Mature",
