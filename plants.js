@@ -1635,7 +1635,7 @@ const PLANT_DATA = [
     "num": 141,
     "name": "Pretty Ballerina x Dark Pink GT with recurve",
     "qty": 5,
-    "stock": 4,
+    "stock": 0,
     "cost": 150,
     "price": 950,
     "type": "Mature",
