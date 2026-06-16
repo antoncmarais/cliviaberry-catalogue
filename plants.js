@@ -1983,7 +1983,7 @@ const PLANT_DATA = [
     "num": 170,
     "name": "Cambridge 2 x Cambridge 1",
     "qty": 3,
-    "stock": 1,
+    "stock": 0,
     "cost": 300,
     "price": 950,
     "type": "Mature",
