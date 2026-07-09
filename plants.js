@@ -2355,7 +2355,7 @@ const PLANT_DATA = [
     "num": 201,
     "name": "Chiffons daughter",
     "qty": 1,
-    "stock": 2,
+    "stock": 0,
     "cost": 100,
     "price": 950,
     "type": "Mature",
